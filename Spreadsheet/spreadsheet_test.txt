@@ -3,4 +3,4 @@ Drive Distance	10
 FOD X	15
 FOD Y	20
 Vision Align	25
-Shoot	35
+Shoot	30
