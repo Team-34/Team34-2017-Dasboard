@@ -1,5 +1,0 @@
-Turn To Angle	90
-Pause	.5
-Turn To Angle	175
-Pause	.75
-Turn To Angle	0

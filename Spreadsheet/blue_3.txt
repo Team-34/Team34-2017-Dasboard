@@ -1,0 +1,11 @@
+Drive To Distance	60
+Turn To Angle	120
+Vision Align	0
+Drive To Distance	8
+Pause	2
+Drive To Distance	20
+Turn To Angle	90
+Warm-Up Shooter	0
+Collision Drive X	-3
+Drive To Distance	27
+Shoot	10
