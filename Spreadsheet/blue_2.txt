@@ -1,10 +1,10 @@
-Drive To Distance	8
+Drive To Distance	15
 Pause	2
 Drive To Distance	20
 Turn To Angle	-90
 Warm-Up Shooter
-Collision Drive X	-3
-Drive To Distance	27
+FOD X	-2.75
+Drive To Distance	27s
 Shoot	10
 
 
