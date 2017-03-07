@@ -1,7 +1,8 @@
 Drive To Distance	90
 Turn To Angle	-120
 Vision Align	0
-Drive To Distance	15
+Align Y	0
+Drive To Distance	7
 Pause	2
 Drive To Distance	20
 Turn To Angle	0
