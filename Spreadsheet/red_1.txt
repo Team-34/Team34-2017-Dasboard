@@ -1,11 +1,12 @@
-Drive To Distance	60
-Turn To Angle	-120
-Vision Align	0
-Drive To Distance	8
-Pause	2
+Reset Gyro	0
+FOD Y	-3.75
+Turn To Angle	60
+Gear Align	0
+Orient Y	0
+Drive To Distance	7
+Pause	3
 Drive To Distance	20
-Turn To Angle	-90
-Warm-Up Shooter	0
-Collision Drive X	3
-Drive To Distance	27
-Shoot	10
+Turn To Angle	90
+FOD Y	2
+Warm Up Shooter	0
+Drive To Distance	60

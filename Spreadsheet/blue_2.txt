@@ -1,10 +1,10 @@
-Drive To Distance	15
+Drive To Distance	7
 Pause	2
 Drive To Distance	20
 Turn To Angle	-90
 Warm-Up Shooter
-FOD X	-2.75
-Drive To Distance	27s
+FOD Y	-3
+Drive To Distance	33
 Shoot	10
 
 
